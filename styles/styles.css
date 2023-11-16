@@ -196,11 +196,12 @@ h1, h2, h3, h4, h5, h6{
         background-color: inherit;
         gap: 8px;
         padding-right: 16px;
+        height: 24px;
         border: 2px transparent solid;
     }
 
     .image-slider__button:hover {
-        border: 2px #B8FFEC solid;
+        border-color: #B8FFEC;
         border-radius: 5px;
     }
 
